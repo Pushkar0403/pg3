@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 IN main BRANCH
+=======
+hello in sub
+>>>>>>> origin/new
